@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Tag</title>
+</head>
+<body>
+    <h1>Table Tag</h1>
+    <p>The Table is an arrangement of data in rows and columns in tabular format. Tables are useful for various tasks, such as presenting text information and numerical data. A table is a useful tool for quickly and easily finding connections between different types of data. Tables are also used to create databases.</p>
+    <h3>Syntax</h3>
+    <p>Element -&lt;table&gt; &lt;/table&gt;</p>
+    <p>We have three more element which are using under Table element.</p>
+    <ul>
+        <Li>&lt;tr&gt; &lt;/tr&gt; - Mention How many rows we want.</Li>
+        <Li>&lt;tr&gt; &lt;/tr&gt; -Providing Heading to the Tabular Column.</Li>
+        <Li>&lt;tr&gt; &lt;/tr&gt; -Providing data’s.</Li>
+    </ul>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Iframe Tags</h1>
+    <h3>We can see two or more online shopping wedsite in one Webpage</h3>
+    <iframe height="1000px" src="https://www.amazon.in/" frameborder="0"></iframe>
+    <iframe height="1000px" src="https://www.flipkart.com/" frameborder="0"></iframe>
+    <iframe  height="1000px"src="https://www.ajio.com/shop/womenswear?gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8zQ_Z7vrD5R6GMKgd6Rj3ogi0lVLvQXWj-5nnw-qqlee0WLQRaQG-YaAiBrEALw_wcB" frameborder="0"></iframe>
+   
+</body>
+</html>

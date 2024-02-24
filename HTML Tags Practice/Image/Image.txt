@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>How was My boi Looks Like ? </h1>
+    <h3>Front Look</h3>
+    <img src="./My bike .jpg" alt="">
+    <h3>Back Look</h3>
+    <img src="./my bike backside .jpg" alt="">
+    <h4>Thanks for vist us</h4>
+</body>
+</html>

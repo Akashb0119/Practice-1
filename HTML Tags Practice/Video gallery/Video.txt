@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <h2>This is My Reals Gallery</h2>
+    
+    <h4>First Reals</h4>
+    <video controls autoplay src="./1.mp4"  >
+    </video>
+    <h4>Second Reals</h4>
+    <video  controls src="./2.mp4"></video>
+    <h4>Third Reals</h4>
+    <video controls src="./3.mp4"></video>
+    <h5>Thanks for watching vist again ! </h5>
+    </center>
+    
+</body>
+</html>

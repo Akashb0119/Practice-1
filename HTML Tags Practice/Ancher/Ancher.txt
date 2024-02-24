@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ancher Tags</h1>
+        <p>
+            The tag is used to provide a link in webpage.
+            In the tab need to provide two thinks must.
+            <ol>
+                <li>Element</li> 
+                <li>Attribute</li>
+            </ol>
+            <h3>Syntax</h3>
+            <a href=” “> </a>
+            In syntax <a> is the element and href is a Attribute need to provide the url.
+            Link visible by default
+            <ul>
+                <li>An unvisited link is underlined and blue</li>
+                <li>A visited link is underlined and purple</li>
+                <li>An active link is underlined and red</li>
+            </ul> 
+        </p>
+    
+    <h4>Thanks for vist us</h4>
+</body>
+</html>
+

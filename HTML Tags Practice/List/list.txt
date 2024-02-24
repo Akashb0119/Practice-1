@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>List Tag</h1>
+    <p>A list is a record of short pieces of related information or used to display the data or any information on web pages in the ordered or unordered form. Both tags we have closing tags.</p>
+    <p>There are two types of List</p>
+    <ol>
+        <li>Unorder List</li>
+        <li>Order List</li>
+    </ol>
+    <hr>
+    <ul>
+        <li>Unorder List</li>
+        <li>Order List</li>
+    </ul>
+    <h3>Syntax</h3>
+    <p>For Ordered List -&lt;ol&gt;&lt;/ol&gt;</p>
+    <p>For Unordered List -&lt;ul&gt;&lt;/ul&gt;</p>
+    <p>Providing List values under -&lt;li&gt;&lt;/li&gt;</p>
+    
+</body>
+</html>

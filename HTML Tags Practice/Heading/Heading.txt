@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading Tags</h1>
+
+    <p>The tag is used to giving a Heading /Title or subheading to display in Web page.</p>
+    <p>There are 6 type of Heading tag and each heading have unique sizes.   </p>
+    
+    <h2>Sub Heading</h2>
+    <h3>Giving small size</h3>
+    <h4>Heading size as 4</h4>
+    <h5>Heading size as 5</h5>
+    <h6>Heading size as 6</h6>
+
+    <h3>Syntax</h3>
+    <p>Element</p>
+    <p>&lt;h1&gt; &lt;/h1&gt;</p>
+    <p>&lt;h2&gt; &lt;/h2&gt;</p>
+    <p>&lt;h3&gt; &lt;/h3&gt;</p>
+    <p>&lt;h4&gt; &lt;/h4&gt;</p>
+    <p>&lt;h5&gt; &lt;/h5&gt;</p>
+    <p>&lt;h6&gt; &lt;/h6&gt;</p>
+    
+</body>
+</html>
