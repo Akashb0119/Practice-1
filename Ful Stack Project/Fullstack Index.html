@@ -20,21 +20,35 @@
             color: rgb(35, 206, 38);
             
         }
+        #row{
+            background-color: bisque;
+        }
         p{
             color: rgb(152, 47, 181);
+        }
+        .container-fluid{
+            border: 10px solid black;
+            margin: 5px;
+            margin-right: 5px;
+        }
+        #col{
+            border: 3px solid grey;
         }
     </style>
 </head>
 <body>
-    <center>
-        <h1>Welcome you All!</h1>
-    </center>
+    
     <div class="container-fluid">
+       <div class="row"><div class="col"></div>
+       <div class="col"></div>
+       <div class="col"></div></div>
+            <h1><span>Welcome you All!</span></h1>
         
-        <div class="row">
+        
+        <div class="row" id="row">
             <h2>Full Stack Learning Webpage</h2>
             <br>
-            <div class="col">
+            <div class="col" id="col">
                 <h3>Front-End</h3>
                 <div class="row">
                     <div class="col">
@@ -53,7 +67,7 @@
                 </div>
                 
        </div>
-            <div class="col">
+            <div class="col" id="col">
                 <h3>Back-End</h3>
                 <div class="row">
                     <div class="col">
@@ -67,7 +81,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col" id="col">
                 <h3>Data Base</h3>
                 <div class="row">
                     <div class="col">
